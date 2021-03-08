@@ -26,10 +26,13 @@ Once the queue is finalized, all players in the queue are sent a message from th
 (the host is responsible for creating the private lobby).
 
 This is a message received if you're not the host but on the blue team. It displays who the host is, what team you're on, as well as the lobby info.
+
 ![image](https://user-images.githubusercontent.com/38481385/110364926-61973c00-8012-11eb-866c-270dd900ee12.png)
 
-This is a message received if you're the host and on the blue team.
+**This is a message received if you're the host and on the blue team.
+
 ![image](https://user-images.githubusercontent.com/38481385/110365096-986d5200-8012-11eb-8cf4-68a065fcac00.png)
 
-This is a message received if you're not the host but on the orange team.
+**This is a message received if you're not the host but on the orange team.
+
 ![image](https://user-images.githubusercontent.com/38481385/110365157-afac3f80-8012-11eb-9dbc-f36d4ae24cae.png)
