@@ -12,7 +12,9 @@ status = upon a user typing this command, the current users in the queue pop up.
 
 **Features:**
 
+*Below is a display of queueing, checking the status, and then leaving the queue.*
 
+![image](https://user-images.githubusercontent.com/38481385/110364481-d4ec7e00-8011-11eb-9eea-81f1855148cf.png)
 
 *Below is a display of the queue being finalized and the teams being created. Also, if you try queueing right when a queue is called, 
 you are told to wait a few seconds for the previous queue to reset.*
